@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohitgoswami24
 
-- 🌱 I’m currently learning NodeJs
+- 🌱 I’m currently learning React
 
 - 📫 How to reach me mohitgoswami24mg@gmail.com
 
